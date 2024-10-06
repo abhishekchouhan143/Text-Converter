@@ -44,10 +44,10 @@ export default function About(props) {
               aria-labelledby="flush-headingOne"
               data-bs-parent="#accordionFlushExample"
             >
-              <div className="accordion-body" style={myStyle}>
+              <div className="accordion-body fs-5" style={myStyle}>
                 Alternatively, you can use our tool to convert text from
                 lowercase to uppercase by clicking the “UPPER” button. You can
-                also use<code> this tool </code> to do it automatically.
+                also use<code className="color-blue fs-5"> this tool </code> to do it automatically.
               </div>
             </div>
           </div>
@@ -77,11 +77,11 @@ export default function About(props) {
               aria-labelledby="flush-headingTwo"
               data-bs-parent="#accordionFlushExample"
             >
-              <div className="accordion-body" style={myStyle}>
+              <div className="accordion-body fs-5" style={myStyle}>
                 If you left caps lock on accidentally, you can quickly convert
                 your title from uppercase to lowercase by selecting the “lower”
                 button above. This will unCapitalize your text. You can also use
-                <code> this tool </code>to do it automatically.
+                <code className="color-blue fs-5"> this tool </code>to do it automatically.
               </div>
             </div>
           </div>
@@ -111,10 +111,10 @@ export default function About(props) {
               aria-labelledby="flush-headingThree"
               data-bs-parent="#accordionFlushExample"
             >
-              <div className="accordion-body" style={myStyle}>
+              <div className="accordion-body fs-5"  style={myStyle}>
                 Alternatively, you can use our tool to remove extra spaces from
                 the sentences to you write in the text area so click “REMOVE
-                EXTRA SPACES” button. You can also use<code> this tool </code>
+                EXTRA SPACES” button. You can also use<code className="color-blue fs-5"> this tool </code>
                 to do it automatically.
               </div>
             </div>
@@ -144,10 +144,10 @@ export default function About(props) {
               aria-labelledby="flush-headingThree"
               data-bs-parent="#accordionFlushExample"
             >
-              <div className="accordion-body" style={myStyle}>
+              <div className="accordion-body fs-5" style={myStyle}>
                 Alternatively, you can use our tool to copy text from the
                 sentences to you write in the text area so click “COPY TEXT”
-                button. You can also use<code> this tool </code>
+                button. You can also use<code className="color-blue fs-5"> this tool </code>
                 to do it automatically.
               </div>
             </div>
@@ -177,10 +177,10 @@ export default function About(props) {
               aria-labelledby="flush-headingThree"
               data-bs-parent="#accordionFlushExample"
             >
-              <div className="accordion-body" style={myStyle}>
+              <div className="accordion-body fs-5" style={myStyle}>
                 Alternatively, you can use our tool to clear all text from the
                 sentences to you write in the text area so click “CLEAR ALL
-                TEXT” button. You can also use<code> this tool </code>
+                TEXT” button. You can also use<code className="color-blue fs-5"> this tool </code>
                 to do it automatically.
               </div>
             </div>

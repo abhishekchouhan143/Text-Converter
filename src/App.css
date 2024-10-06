@@ -1,11 +1,10 @@
-
-
-
-.margin-left{
-   margin-left: 27px;
-   margin-top: 1px;
-   margin-bottom: 0px;
-   font-size: 21px;
-   font-weight: 550;
+.margin-left {
+  margin-left: 27px;
+  margin-top: 1px;
+  margin-bottom: 0px;
+  font-size: 21px;
+  font-weight: 550;
 }
-
+.color-blue {
+  color: blue;
+}
